@@ -29,7 +29,7 @@
             <img src="../Fotos/Inge.jpg" alt="Imagen 1">
         </a>
 
-        <a href="Ingenieria2.php">
+        <a href="hola.html">
             <img src="../Fotos/Inge2.jpg" alt="Imagen 2">
         </a>
     </div>
@@ -42,4 +42,5 @@
   </div>
 </div>
     </body>
+
 </html>
